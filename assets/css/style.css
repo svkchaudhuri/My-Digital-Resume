@@ -884,13 +884,13 @@ section {
   font-size: 20px;
   color: #0563bb;
   float: center;
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
   background: #eef7ff;
-  display: flex;
+  display: d-flex;
   justify-content: center;
   align-items: center;
-  border-radius: 42px;
+  border-radius: 50px;
   transition: all 0.3s ease-in-out;
 }
 .contact .info h4 {
