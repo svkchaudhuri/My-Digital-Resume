@@ -883,14 +883,14 @@ section {
 .contact .info i {
   font-size: 20px;
   color: #0563bb;
-  float: left;
-  width: 44px;
-  height: 44px;
+  float: right;
+  width: 30px;
+  height: 30px;
   background: #eef7ff;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50px;
+  border-radius: 36px;
   transition: all 0.3s ease-in-out;
 }
 .contact .info h4 {
