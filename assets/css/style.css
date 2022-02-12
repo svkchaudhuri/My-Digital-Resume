@@ -13,6 +13,11 @@ body {
   color: #272829;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 a {
   color: #0563bb;
   text-decoration: none;
